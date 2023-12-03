@@ -12,7 +12,7 @@ spec:
  template:
   metadata:
    name: Pod
-    labels:
+   labels:
      name: webserver
   spec:
     containers:
